@@ -17,4 +17,4 @@
 > * [各类分布式存储系统简介](https://blog.csdn.net/wendowswd/article/details/78319323)
 > * [FastDFS](https://www.jianshu.com/p/1c71ae024e5e)
 > * [分布式文件系统FastDFS详解](http://www.ityouknow.com/fastdfs/2018/01/06/distributed-file-system-fastdfs.html)
-
+> * [SeaweedFS](https://github.com/chrislusf/seaweedfs)
