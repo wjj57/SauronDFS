@@ -1,4 +1,4 @@
-# SpiderDFS
+# SauronDFS
 基于Go语言的分布式存储系统（A Distribute File System）
 
 <br>
